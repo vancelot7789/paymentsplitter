@@ -26,13 +26,16 @@ const App = () => {
   }, [location]);
 
   return (
-    <ScrollReveal
-      ref={childRef}
-      children={() => (
-        <Switch>
-          <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
-        </Switch>
-      )} />
+    <div>
+      hello
+    </div>
+    // <ScrollReveal
+    //   ref={childRef}
+    //   children={() => (
+    //     <Switch>
+    //       <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
+    //     </Switch>
+    //   )} />
   );
 }
 
