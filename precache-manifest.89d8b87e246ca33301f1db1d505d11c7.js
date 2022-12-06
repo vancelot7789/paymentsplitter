@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91cc60c9684a59f010ab9ee4eb2797ac",
+    "revision": "a39a55d29487013cc9acbc11443993f2",
     "url": "/paymentsplitter/index.html"
   },
   {
-    "revision": "5bcf1a15b8ee916f61d0",
+    "revision": "0071e80871bb5937f41c",
     "url": "/paymentsplitter/static/css/main.7c381bd1.chunk.css"
   },
   {
-    "revision": "475e083f0a29ae593e31",
-    "url": "/paymentsplitter/static/js/2.7e1b154e.chunk.js"
+    "revision": "e71a3f7c38000086dbf3",
+    "url": "/paymentsplitter/static/js/2.de9d84d4.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/paymentsplitter/static/js/2.7e1b154e.chunk.js.LICENSE.txt"
+    "url": "/paymentsplitter/static/js/2.de9d84d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bcf1a15b8ee916f61d0",
-    "url": "/paymentsplitter/static/js/main.0c55df7a.chunk.js"
+    "revision": "0071e80871bb5937f41c",
+    "url": "/paymentsplitter/static/js/main.322d5f9d.chunk.js"
   },
   {
     "revision": "f7082c3cb70a696cfb12",

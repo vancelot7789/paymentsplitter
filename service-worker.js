@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/paymentsplitter/precache-manifest.f2001c56021daf3ff33ea0557fc27cc2.js"
+  "/paymentsplitter/precache-manifest.89d8b87e246ca33301f1db1d505d11c7.js"
 );
 
 self.addEventListener('message', (event) => {
